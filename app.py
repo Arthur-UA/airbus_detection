@@ -46,5 +46,5 @@ if __name__ == "__main__":
         fn=predict,
         inputs=gr.Image(type='numpy'),
         outputs=gr.Plot(),
-        examples=['1c670582a.jpg', '00b0fa633.jpg', '00b2a7cbd.jpg', '00c81c432.jpg']
+        examples=['example_images/1c670582a.jpg', 'example_images/00b0fa633.jpg', 'example_images/00b2a7cbd.jpg', 'example_images/00c81c432.jpg']
     ).launch()
