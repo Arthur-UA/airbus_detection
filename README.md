@@ -1,5 +1,5 @@
 # Semantic segmentation model
-The idea of this project is to solve the airbus detection problem (Kaggle link)[https://www.kaggle.com/c/airbus-ship-detection/overview] using the Semantic segmentation model, with U-NET architecture and tensorflow. The model will be evaluated using the Dice score metric.
+The idea of this project is to solve the airbus detection problem ([Kaggle link])(https://www.kaggle.com/c/airbus-ship-detection/overview) using the Semantic segmentation model, with U-NET architecture and tensorflow. The model will be evaluated using the Dice score metric.
 
 ## Dataset overview
 During the EDA process it was found out that the dataset consists of jpg images with the same size - 768x768 and the bigger part of it has zero or just one ship.
