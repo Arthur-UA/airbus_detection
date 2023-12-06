@@ -1,0 +1,14 @@
+{
+    "dirs": {
+        "data_imgs": "data/train/train_v2",
+        "rle_codes": "data/train_ship_segmentations_v2.csv",
+        "model_weights": "model.weights.h5",
+        "model_logs": "model_logs.csv"
+    },
+    "model": {
+        "batch_size": 2,
+        "epochs": 50,
+        "gaussian_noise": 0.1,
+        "lr": 0.01
+    }
+}

@@ -1,0 +1,10 @@
+gradio
+pandas
+scikit-learn
+numpy
+matplotlib
+tensorflow
+basic_image_eda
+opencv-python
+scikit-image
+seaborn
